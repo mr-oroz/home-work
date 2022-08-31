@@ -4,6 +4,7 @@ import Slider from './components/slider';
 import Buttons from './components/buttons';
 import Menu from './components/menu';
 import Card from './components/card';
+import Counter from './components/counter';
 import './App.scss'
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
         {/* <Buttons/> */}
         {/* <Menu/> */}
         {/* <Card/> */}
+        {/* <Counter/> */}
     </div>
   )
 }
