@@ -2,7 +2,6 @@ import { useState } from 'react';
 
 const Buttons = () => {
     const [btn, setBtn] = useState(1);
-    
     return (
         <div className="buttons">
             <button
