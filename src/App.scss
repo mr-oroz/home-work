@@ -147,3 +147,16 @@
 .counter button:last-of-type {
 	grid-column: span 2;
 }
+
+.list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  span {
+    margin: 0 10px;
+  }
+  input {
+    outline: none;
+    border: none;
+  }
+}
